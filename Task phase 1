@@ -1,0 +1,2 @@
+Beee lab evaluation
+Design a visitor counting system with the help of LDR for a hall. Assume that only one person can pass through the door at any time and also there are separate entry and exit doors. Note: The visitor count needs to be displayed on the serial monitor at all times.
